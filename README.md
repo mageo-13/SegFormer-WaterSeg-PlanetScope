@@ -27,8 +27,4 @@ This repository contains two Google Colab notebooks demonstrating:
 
 Below are some examples of the input PlanetScope images, ground truth masks, and predicted water masks:
 
-![image](https://github.com/user-attachments/assets/5b9f7bef-fb0f-4fa8-870a-921974f9a472)
-
-![image](https://github.com/user-attachments/assets/1b26fe32-aa3e-489d-9a0d-148fee34c168)
-
-![image](https://github.com/user-attachments/assets/a8dfd4ab-c1e5-4c21-b4e5-7cc30a648778)
+![image](https://github.com/user-attachments/assets/2c433b0c-5413-4e73-bee7-17a8a38033aa)
