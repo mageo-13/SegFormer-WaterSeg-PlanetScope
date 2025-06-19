@@ -8,14 +8,14 @@ This repository contains two Google Colab notebooks demonstrating:
 - Training a **SegFormer** model for binary segmentation of water bodies.
 - Post-processing and evaluating predictions on **PlanetScope** satellite images.
 
----
+
 
 ## Contents
 
 - `train_segformer_colab.ipynb`: Fine-tunes SegFormer on PlanetScope imagery and binary masks
 - `eval_postprocess_colab.ipynb`: Evaluates model performance and visualizes predictions
 
----
+
 
 ## Dataset
 
@@ -23,7 +23,6 @@ This repository contains two Google Colab notebooks demonstrating:
 - Satellite: PlanetScope
 - Labels: Binary masks (0 = background, 1 = water)
 
----
 
 Below are some examples of the input PlanetScope images, ground truth masks, and predicted water masks:
 
